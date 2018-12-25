@@ -1,8 +1,8 @@
-* See our website online
-*-- use "npm run deploy" which you can find in the readme file of pug-starter
-* Identify repeatable areas and
-*-- create a template for the layout
-*-- extract header, footer and nav into components
+✔ * See our website online @done (12/25/2018, 11:05:22 AM)
+✔ *-- use "npm run deploy" which you can find in the readme file of pug-starter @done (12/25/2018, 11:05:12 AM)
+✔ * Identify repeatable areas and @done (12/25/2018, 11:05:03 AM)
+✔ *-- create a template for the layout @done (12/25/2018, 11:04:54 AM)
+✔ *-- extract header, footer and nav into components @done (12/25/2018, 11:05:56 AM)
 * Use JavaScript variables to pass data through pug files
 * Refactor header using "each" loop
 * Refactor nav using "each" loop
