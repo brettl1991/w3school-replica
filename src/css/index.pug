@@ -1,0 +1,22 @@
+extends ../_component/layout/template
+
+block cool-config
+  -
+    var myTitle = 'Learn to code CSS and  JavaScript';
+    var myDescription ='CSS is awesome!';
+    var landingPage = 'CSS';
+    var activeLink = '';
+
+block awesome-content
+  h1=myTitle
+  p=myDescription
+  h2 What is CSS?
+  ul
+    li CSS stands for Cascading Style Sheets
+    li CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+    li CSS saves a lot of work. It can control the layout of multiple web pages all at once
+    li External stylesheets are stored in CSS files
+  h2 CSS Demo - One HTML Page - Multiple Styles!
+  p Here we will show one HTML page displayed with four different stylesheets. Click on the "Stylesheet 1", "Stylesheet 2", "Stylesheet 3", "Stylesheet 4" links below to see the different styles:
+
+
