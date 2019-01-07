@@ -4,7 +4,7 @@
 ✔ *-- create a template for the layout @done (12/25/2018, 11:04:54 AM)
 ✔ *-- extract header, footer and nav into components @done (12/25/2018, 11:05:56 AM)
 ✔ * Use JavaScript variables to pass data through pug files @done (12/25/2018, 11:30:47 AM)
-* Refactor header using "each" loop
+✔ * Refactor header using "each" loop @done (12/28/2018, 11:22:41 AM)
 * Refactor nav using "each" loop
 * Create multiple pages
 *-- home
