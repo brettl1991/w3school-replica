@@ -5,20 +5,20 @@
 ✔ *-- extract header, footer and nav into components @done (12/25/2018, 11:05:56 AM)
 ✔ * Use JavaScript variables to pass data through pug files @done (12/25/2018, 11:30:47 AM)
 ✔ * Refactor header using "each" loop @done (12/28/2018, 11:22:41 AM)
-* Refactor nav using "each" loop
-* Create multiple pages
-*-- home
-*---- html
-*------ elements
-*------ attributes
-*------ headings
-*---- css
-*------ colors
-*------ backgrounds
-*------ borders
-*---- javascript
-*------ comments
-*------ variables
-*------ operators
+✔ * Refactor nav using "each" loop @done (1/7/2019, 12:04:16 PM)
+✔ * Create multiple pages @done (1/7/2019, 12:04:29 PM)
+✔ *-- home @done (1/7/2019, 12:04:38 PM)
+✔ *---- html @done (1/7/2019, 12:04:47 PM)
+✔ *------ elements @done (1/7/2019, 12:04:51 PM)
+✔ *------ attributes @done (1/7/2019, 12:04:57 PM)
+✔ *------ headings @done (1/7/2019, 12:05:01 PM)
+✔ *---- css @done (1/7/2019, 12:05:22 PM)
+✔ *------ colors @done (1/7/2019, 12:05:25 PM)
+✔ *------ backgrounds @done (1/7/2019, 12:05:26 PM)
+✔ *------ borders @done (1/7/2019, 12:05:27 PM)
+✔ *---- javascript @done (1/7/2019, 12:05:28 PM)
+✔ *------ comments @done (1/7/2019, 12:05:28 PM)
+✔ *------ variables @done (1/7/2019, 12:05:29 PM)
+✔ *------ operators @done (1/7/2019, 12:05:30 PM)
 * Redeploy and fix the style.css path for github.io pages
 * The end - The next project will be "me awesome resume"
