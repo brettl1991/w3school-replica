@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 html(lang="en")
+    //- - var baseURL = 'http://localhost:3000'
+    - var baseURL = 'https://brettl1991.github.io/w3school-replica'
     block cool-config
     head
         meta(charset="UTF-8")
@@ -7,7 +9,7 @@ html(lang="en")
         meta(http-equiv="X-UA-Compatible", content="ie=edge")
         title=myTitle
         meta(name="description", content=myDescription)
-        link(rel="stylesheet", href="/style.css")
+        link(rel="stylesheet", href=`${baseURL}/style.css`)
     body
         include ../header/header
         article
